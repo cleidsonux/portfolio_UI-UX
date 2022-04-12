@@ -1,0 +1,549 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+
+.div-1 {
+    display: flex;
+    justify-content:space-around;
+    max-width: 1421px;
+    min-width: 700px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.home {
+   
+    margin-inline: 52px;
+    width: 100%;
+    font-weight: 700;
+    margin: auto 34px;
+} 
+
+
+img {
+    height: 100px;
+}
+
+
+
+.img1 {
+    position: absolute;
+    top: 97px;
+    right: 120px;
+    height: auto;
+}
+
+.img2 {
+    position: absolute;
+    bottom: -200px;
+    height: auto;
+}
+
+#home1 {
+    
+   
+    max-width: 1000px;
+    margin: 0 auto;
+}
+p {
+    font-size: 50px;
+    font-weight: 800;
+    position: relative;
+    top: 100px;
+    
+    padding: 3px 0px;
+
+}
+
+.main_button {
+    display: flex;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+    
+    
+}
+
+button {
+    
+    margin-left: 20px;
+    margin-top: 120px;
+    background: #353434;
+    border-radius: 60px;
+    border-style: none;width: 216px;
+height: 59px;
+}
+
+.main_sobre {
+    
+    
+    max-width: 1000px;
+    min-width: 400px;
+    margin: 0 auto;
+    height: 500px;
+
+
+}
+
+.blob {
+    
+    height: auto;
+    width: 100%;
+}
+
+#title {
+    
+    font-size: 40px;
+    font-weight: 800;
+    max-width: 50%;
+    margin: 0 auto;
+    left: 121px;
+    top: 645px;
+    
+}
+
+
+
+.sobre {
+
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 50%;
+    margin: 0 auto;
+    top: 654px;
+    left: 126px;
+}
+
+.human_main {
+    background-color: #11F553;
+    max-width: 800px;
+    
+}
+
+.human.main{
+    max-width: 1000px;
+    min-width: 600px;
+    margin: 0 auto;
+    
+}
+.human {
+   
+height: auto;
+width: 50%;
+
+
+  
+   
+} 
+
+.quadrado4 {
+    position: absolute;
+    height: auto;
+    left: 1076px;
+    top: 724px;
+}
+
+.quadrado5 {
+    position: absolute;
+    height: auto;
+    left: -144px;
+    background: none;
+ 
+}
+
+
+#work {
+    display: flex;
+    justify-content: center;
+    max-width: 1450px;
+    min-width: 400px;
+    margin: 0 auto;
+    margin-top: 400px;
+}
+
+
+.designer {
+    height: auto;
+    width: 440px;
+
+
+}
+.ui {
+    height: auto;
+    width: 440px;
+}
+.mock {
+    height: auto;
+    width: 440px;
+
+
+}
+.trabb{
+    background-color: #11F553;
+    max-width: 1000px;
+    height: 20px;
+    margin: 0 auto;
+}
+.trab {
+    position: absolute;
+    width: 400px;
+    left: 582px;
+    top: 2063px;
+}
+
+
+.container_contato {
+    max-width: 924px;
+    min-width: 300px;
+    background: rgba(5, 217, 117, 0.68);;
+    height: 616px;
+    margin: 0 auto;
+    margin-top: 30%;
+    border-radius: 30.8px;
+    backdrop-filter: blur(20.5333px);
+}
+
+.ent {
+    position: absolute;
+    width: auto;
+    height: 35px;
+    left: 86px;
+    top: 67px;
+}
+
+.descr {
+    position: absolute;
+width: 31%;
+height: 175px;
+left: 86px;
+top: 154px;
+font-size: 15px;
+}
+.tell {
+    position: absolute;
+    width: 40%;
+    height: 175px;
+    left: 147px;
+    top: 375px;
+    font-size: 15px;
+}
+
+.email {
+    position: absolute;
+    width: 40%;
+    height: 175px;
+    left: 148.16px;
+    top: 433px;
+    font-size: 15px;
+}
+.tell_icon {
+    position: absolute;
+    height: auto;
+    top: 368px;
+    left: 86px;
+}
+
+.email_icon {
+    position: absolute;
+    height: auto;
+    top: 427px;
+    left: 86px;
+}
+
+#send {
+    position: absolute;
+    top: 67px;
+    left: 511px;
+    font-size: 29px;
+    
+}
+
+.check-1 {
+    position: absolute;
+    left: 515px;
+    top: 145px;
+    width: 290px;
+    border: #11F553;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 35px;
+    color: black;
+    padding-left: 10px;
+    
+
+}
+
+.check-2 {
+    position: absolute;
+    left: 515px;
+    top: 193px;
+    width: 290px;
+    border: #11F553;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 35px;
+    color: black;
+    padding-left: 10px;
+}
+
+.check-3 {
+    position: absolute;
+    left: 515px;
+    top: 241px;
+    width: 290px;
+    border: #11F553;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 35px;
+    color: black;
+    padding-left: 10px;
+}
+
+.check-4 {
+    position: absolute;
+    left: 515px;
+    top: 291px;
+    width: 290px;
+    border: #11F553;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 35px;
+    color: black;
+    padding-left: 10px;
+    padding-bottom: 150px;
+}
+
+.bnt_mgs {
+    position: absolute;
+    left: 495px;
+    width: 164px;
+    height: 41px;
+    background: linear-gradient(105.95deg, #57CB71 24.79%, #18D12A 71.87%);
+    box-shadow: 0px 10.2667px 20.5333px rgba(7, 7, 26, 0.15);
+    border-radius: 10.2667px;
+    top: 380px;
+    border-style:none;
+   
+}
+
+
+.container_foot {
+    
+    position: absolute;
+    width: 1480px;
+    min-width: 700px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.06);
+    margin-top: 400px;
+}
+
+.foot {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 917px;
+    height: 44px;
+    left: 283px;;
+    top: 108px;
+
+
+}
+
+.foot-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    
+    position: static;
+    width: 115px;
+    height: 44px;
+    left: 0px;
+    top: 0px;
+    margin: 0 50px;
+}
+
+
+
+.foot-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    
+    position: static;
+    width: 148px;
+    height: 44px;
+    left: 165px;
+    top: 0px;
+    margin: 0 50px;
+}
+
+.foot-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    
+    position: static;
+    width: 107px;
+    height: 44px;
+    left: 363px;
+    top: 0px;
+    margin: 0 50px;
+}
+
+.foot-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    
+    position: static;
+    width: 133px;
+    height: 44px;
+    left: 520px;
+    top: 0px;
+    margin: 0 50px;
+}
+
+
+
+.redes-foot {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 164px;
+height: 48px;
+left: 638px;
+top: 210px;
+}
+
+.instaa {
+    position: static;
+width: 48px;
+height: 48px;
+left: 0px;
+top: 0px;
+margin-left: 15px;
+}
+
+.face {
+    position: static;
+    width: 48px;
+    height: 48px;
+    left: 58px;
+    top: 0px;
+    margin-left: 15px;
+}
+
+.link {
+    position: static;
+    width: 48px;
+    height: 48px;
+    left: 116px;
+    top: 0px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*Mobile CSS--------------------------------------*/
+
+.menu1 {
+    display: none;
+}
+ 
+.menu-mobile { 
+        display: none; 
+        position: absolute; 
+        top: 69px; 
+        right: 10px; 
+        font-size: 15px;
+        border-radius: 2px;
+} 
+ 
+@media screen and (max-width: 700px) { 
+        .container { 
+            display: none; 
+        } 
+        .div-1 { 
+            display: none; 
+        } 
+        .menu-mobile { 
+            display: none; 
+            flex-direction:column; 
+            background-color: rgb(225, 225, 225); 
+            width: 65px; 
+            text-align: center; 
+            
+        } 
+ 
+        .menu-mobile a { 
+    
+            padding: 3px
+            
+    
+        } 
+    
+        .div-2:hover .menu-mobile { 
+    
+            display: flex;
+            }
+
+        .btn { 
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            background-color:#11F553; 
+            border-radius: 2px; 
+            height: 60px; 
+            width: 65px; 
+            } 
+            .menu {
+                display: flex;
+                flex-direction: column;
+                position: absolute;
+                right: 12px;
+                top: -18px;
+                width: 40px;
+            }
+            .menu1 {
+                display: flex;
+            }
+
+            .img1 {
+                display: none;
+            }
+            
+    }
+
+    
